@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * 认证中心 认证发放token
+ * git
  */
 @SpringBootApplication
 public class ServiceAuthCenterApplication {

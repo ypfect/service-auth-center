@@ -1,0 +1,9 @@
+server:
+  port: 8081
+jwt:
+  url: /login
+  header: Authorization
+  prefix: Bearer
+  expiration: 120000
+  secret: explore
+
